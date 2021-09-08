@@ -31,11 +31,11 @@ Usage
 To use this repository just use the ``template`` option of `django-admin
 <https://docs.djangoproject.com/en/2.2/ref/django-admin/#startproject>`_::
 
-    $ django-admin startproject --template=https://github.com/pratiksinghchauhan/django-starter-code/archive/master.zip [projectname]
+    $ django-admin startproject --template=https://github.com/pratiksinghchauhan/starter-django/archive/master.zip [projectname]
 
 If you wish to automagically fill the ``apache2_vhost.sample`` the command is::
 
-    $ django-admin startproject --template=https://github.com/pratiksinghchauhan/django-starter-code/archive/master.zip --name apache2_vhost.sample [projectname]
+    $ django-admin startproject --template=https://github.com/pratiksinghchauhan/starter-django/archive/master.zip --name apache2_vhost.sample [projectname]
 
 
 Note
