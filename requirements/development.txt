@@ -1,0 +1,92 @@
+# coverage measures code coverage of Python programs
+# See http://coverage.readthedocs.io/en/latest/
+coverage
+
+# **tox** automates testing
+# See https://tox.readthedocs.io/en/latest/index.html
+tox
+
+# **Sphinx** is used to create documentation
+# See http://www.sphinx-doc.org/en/stable/tutorial.html
+Sphinx
+
+# **flake8** is used to check for PEP8 compliance
+# See http://flake8.pycqa.org/en/latest/index.html
+flake8
+alabaster
+appdirs
+asgiref
+astroid
+Babel
+backports.entry-points-selectable
+black
+certifi
+cffi
+charset-normalizer
+click
+coreapi
+coreschema
+coverage
+cryptography
+defusedxml
+distlib
+dj-rest-auth
+Django
+django-allauth
+django-cors-headers
+django-environ
+djangorestframework
+djangorestframework-simplejwt
+docutils
+drf-yasg
+filelock
+flake8
+idna
+imagesize
+inflection
+isort
+itypes
+Jinja2
+lazy-object-proxy
+MarkupSafe
+mccabe
+mypy-extensions
+oauthlib
+packaging
+pathspec
+platformdirs
+pluggy
+py
+pycodestyle
+pycparser
+pyflakes
+Pygments
+PyJWT
+pylint
+pylint-django
+pylint-plugin-utils
+pyparsing
+python3-openid
+pytz
+regex
+requests
+requests-oauthlib
+ruamel.yaml
+ruamel.yaml.clib
+six
+snowballstemmer
+Sphinx
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-htmlhelp
+sphinxcontrib-jsmath
+sphinxcontrib-qthelp
+sphinxcontrib-serializinghtml
+sqlparse
+toml
+tomli
+tox
+uritemplate
+urllib3
+virtualenv
+wrapt
